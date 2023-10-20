@@ -6,6 +6,7 @@
   src: local('Lustria'), local('Lustria-Regular'), url(https://fonts.gstatic.com/s/lustria/v8/9oRONYodvDEyjuhOnC8zMw.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+
 /* cyrillic-ext */
 @font-face {
   font-family: 'Open Sans';
@@ -14,6 +15,7 @@
   src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OX-hpOqc.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
+
 /* cyrillic */
 @font-face {
   font-family: 'Open Sans';
@@ -22,6 +24,7 @@
   src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OVuhpOqc.woff2) format('woff2');
   unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
+
 /* greek-ext */
 @font-face {
   font-family: 'Open Sans';
@@ -30,6 +33,7 @@
   src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OXuhpOqc.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
+
 /* greek */
 @font-face {
   font-family: 'Open Sans';
@@ -38,6 +42,7 @@
   src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OUehpOqc.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
+
 /* vietnamese */
 @font-face {
   font-family: 'Open Sans';
@@ -46,6 +51,7 @@
   src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OXehpOqc.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
 }
+
 /* latin-ext */
 @font-face {
   font-family: 'Open Sans';
@@ -54,6 +60,7 @@
   src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OXOhpOqc.woff2) format('woff2');
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
+
 /* latin */
 @font-face {
   font-family: 'Open Sans';
@@ -62,6 +69,7 @@
   src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OUuhp.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+
 /* cyrillic-ext */
 @font-face {
   font-family: 'Open Sans';
@@ -70,6 +78,7 @@
   src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFWJ0bbck.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
+
 /* cyrillic */
 @font-face {
   font-family: 'Open Sans';
@@ -78,6 +87,7 @@
   src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFUZ0bbck.woff2) format('woff2');
   unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
+
 /* greek-ext */
 @font-face {
   font-family: 'Open Sans';
@@ -86,6 +96,7 @@
   src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFWZ0bbck.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
+
 /* greek */
 @font-face {
   font-family: 'Open Sans';
@@ -94,6 +105,7 @@
   src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFVp0bbck.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
+
 /* vietnamese */
 @font-face {
   font-family: 'Open Sans';
@@ -102,6 +114,7 @@
   src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFWp0bbck.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
 }
+
 /* latin-ext */
 @font-face {
   font-family: 'Open Sans';
@@ -110,6 +123,7 @@
   src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFW50bbck.woff2) format('woff2');
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
+
 /* latin */
 @font-face {
   font-family: 'Open Sans';
@@ -118,6 +132,7 @@
   src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFVZ0b.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+
 /* cyrillic-ext */
 @font-face {
   font-family: 'Open Sans';
@@ -126,6 +141,7 @@
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOX-hpOqc.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
+
 /* cyrillic */
 @font-face {
   font-family: 'Open Sans';
@@ -134,6 +150,7 @@
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOVuhpOqc.woff2) format('woff2');
   unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
+
 /* greek-ext */
 @font-face {
   font-family: 'Open Sans';
@@ -142,6 +159,7 @@
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOXuhpOqc.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
+
 /* greek */
 @font-face {
   font-family: 'Open Sans';
@@ -150,6 +168,7 @@
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOUehpOqc.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
+
 /* vietnamese */
 @font-face {
   font-family: 'Open Sans';
@@ -158,6 +177,7 @@
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOXehpOqc.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
 }
+
 /* latin-ext */
 @font-face {
   font-family: 'Open Sans';
@@ -166,6 +186,7 @@
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOXOhpOqc.woff2) format('woff2');
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
+
 /* latin */
 @font-face {
   font-family: 'Open Sans';
@@ -174,6 +195,7 @@
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+
 /* cyrillic */
 @font-face {
   font-family: 'Yanone Kaffeesatz';
@@ -182,6 +204,7 @@
   src: url(https://fonts.gstatic.com/s/yanonekaffeesatz/v15/3y9I6aknfjLm_3lMKjiMgmUUYBs04aUXNxt9gW2LIfto9tWZc2GKOnU.woff2) format('woff2');
   unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
+
 /* vietnamese */
 @font-face {
   font-family: 'Yanone Kaffeesatz';
@@ -190,6 +213,7 @@
   src: url(https://fonts.gstatic.com/s/yanonekaffeesatz/v15/3y9I6aknfjLm_3lMKjiMgmUUYBs04aUXNxt9gW2LIfto9tWZeGGKOnU.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
 }
+
 /* latin-ext */
 @font-face {
   font-family: 'Yanone Kaffeesatz';
@@ -198,6 +222,7 @@
   src: url(https://fonts.gstatic.com/s/yanonekaffeesatz/v15/3y9I6aknfjLm_3lMKjiMgmUUYBs04aUXNxt9gW2LIfto9tWZeWGKOnU.woff2) format('woff2');
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
+
 /* latin */
 @font-face {
   font-family: 'Yanone Kaffeesatz';
@@ -206,3 +231,2335 @@
   src: url(https://fonts.gstatic.com/s/yanonekaffeesatz/v15/3y9I6aknfjLm_3lMKjiMgmUUYBs04aUXNxt9gW2LIfto9tWZd2GK.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+
+header .site-name,
+header .site-description,
+header .site-tagline {
+  color: #333333;
+}
+
+.entry-content a,
+.home-section-content a {
+  color: #37cadd;
+}
+
+.top-bar-sns li i {
+  color: ;
+}
+
+.fxd-header {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.fxd-header {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.fxd-header .site-nav>ul>li>a {
+  font-size: 13px;
+}
+
+img.site-logo {
+  margin-right: 10px;
+}
+
+img.site-logo {
+  margin-top: 10px;
+}
+
+img.site-logo {
+  margin-bottom: 10px;
+}
+
+.top-bar {
+  background-color: #eee;
+}
+
+.top-bar {
+  display: block;
+}
+
+.top-bar-info {
+  color: #555;
+}
+
+.top-bar ul li a {
+  color: #555;
+}
+
+header .main-header {
+  background-attachment: fixed;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.site-nav>ul>li>a {
+  padding-top: 0px
+}
+
+.site-nav>ul>li>a {
+  padding-bottom: 0px
+}
+
+.col-main {
+  background-color: #ffffff;
+}
+
+.col-aside-left,
+.col-aside-right {
+  background-color: #ffffff;
+}
+
+footer .footer-widget-area {
+  background-color: #555555;
+}
+
+footer .footer-info-area {
+  background-color: #000000
+}
+
+footer input,
+footer textarea {
+  color: #666666;
+}
+
+footer input,
+footer textarea {
+  border-color: #666666;
+}
+
+.post-inner,
+.page-inner {
+  padding-top: 55px;
+}
+
+.post-inner,
+.page-inner {
+  padding-bottom: 40px;
+}
+
+.col-lg-1,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-md-1,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-sm-1,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-xs-1,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9 {
+  margin-top: 0px;
+}
+
+.col-lg-1,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-md-1,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-sm-1,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-xs-1,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9 {
+  margin-bottom: 20px;
+}
+
+.fxd-header .site-tagline,
+.fxd-header .site-name {
+  color: #333333;
+}
+
+header.overlay .main-header .site-tagline,
+header.overlay .main-header .site-name {
+  color: #ffffff;
+}
+
+.page-title h1 {
+  color: #555555;
+}
+
+h1 {
+  color: #555555;
+}
+
+h2 {
+  color: #555555;
+}
+
+h3 {
+  color: #555555;
+}
+
+h4 {
+  color: #555555;
+}
+
+h5 {
+  color: #555555;
+}
+
+h6 {
+  color: #555555;
+}
+
+.entry-content,
+.entry-content p {
+  color: #333333;
+}
+
+.breadcrumb-nav span,
+.breadcrumb-nav a {
+  color: #555555;
+}
+
+.col-aside-left .widget-title,
+.col-aside-right .widget-title {
+  color: #333333;
+}
+
+.footer-widget-area .widget-title {
+  color: #ffffff;
+}
+
+footer,
+footer p,
+footer span,
+footer div {
+  color: #ffffff;
+}
+
+footer a {
+  color: #a0a0a0;
+}
+
+#menu-main>li>a {
+  color: #3d3d3d;
+}
+
+header.overlay .main-header #menu-main>li>a {
+  color: #ffffff;
+}
+
+#menu-main>li>a:hover,
+#menu-main>li.current>a {
+  color: #3d3d3d;
+}
+
+.main-header .sub-menu {
+  background-color: #ffffff;
+}
+
+.fxd-header .sub-menu {
+  background-color: #ffffff;
+}
+
+#menu-main li li a {
+  color: #3d3d3d;
+}
+
+#menu-main li li a:hover {
+  color: #222222;
+}
+
+.site-nav ul li li a {
+  border-color: #000000 !important;
+}
+
+@media screen and (min-width: 920px) {
+  .onetone-dots li a {
+    border: 2px solid #37cadd;
+  }
+
+  .onetone-dots li.active a,
+  .onetone-dots li.current a,
+  .onetone-dots li a:hover {
+    background-color: #37cadd;
+  }
+}
+
+@media screen and (max-width: 920px) {
+
+  .site-nav ul {
+    background-color: #ffffff;
+  }
+
+  #menu-main li a,
+  header.overlay .main-header #menu-main>li>a {
+    color: #3d3d3d;
+  }
+
+  .site-nav ul li a {
+    border-color: #000000 !important;
+  }
+
+}
+
+.footer-widget-area {
+
+  padding-top: 60px;
+
+  padding-bottom: 40px;
+
+}
+
+.footer-info-area {
+
+  padding-top: 20px;
+
+  padding-bottom: 20px;
+
+}
+
+header .main-header {
+  background-color: #ffffff;
+  background-image: url();
+  background-repeat: ;
+  background-position: top-left;
+  background-size: ;
+  background-attachment: ;
+}
+
+.page-title-bar {
+  background-color: ;
+  background-image: url();
+  background-repeat: ;
+  background-position: top-left;
+  background-size: ;
+  background-attachment: ;
+}
+
+.page-title-bar-retina {
+  background-color: ;
+  background-image: url();
+  background-repeat: ;
+  background-position: top-left;
+  background-size: ;
+  background-attachment: ;
+}
+
+body {
+  font-family: Open Sans, sans-serif;
+  variant: ;
+}
+
+#menu-main li a span {}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Open Sans, sans-serif;
+}
+
+footer h1,
+footer h2,
+footer h3,
+footer h4,
+footer h5,
+footer h6 {
+  font-family: Open Sans, sans-serif;
+}
+
+a.btn-normal {
+  font-family: Open Sans, sans-serif;
+}
+
+.footer-widget-area {
+  background-color: ;
+  background-image: url();
+  background-repeat: ;
+  background-position: ;
+  background-size: ;
+  background-attachment: ;
+}
+
+section.home-section-0 {
+  background-color: #333333;
+  background-image: url("files/images/back.jpg");
+  background-repeat: no-repeat;
+  background-position: center-center;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+3 section.home-section-0 .section-title {
+  font-family: Lustria, serif;
+  variant: 700;
+  font-size: 64px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #ffffff;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-0 .section-subtitle {
+  font-family: Lustria, serif;
+  variant: normal;
+  font-size: 18px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #ffffff;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-0 .home-section-content,
+section.home-section-0 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #ffffff;
+  text-transform: none;
+  text-align: center;
+}
+
+.section_service_0 i {}
+
+section.home-section-0 .home-section-content .person-social i,
+section.home-section-0 .banner-sns li a i,
+section.home-section-0 input,
+section.home-section-0 select,
+section.home-section-0 textarea,
+section.home-section-0 .home-section-content h1,
+section.home-section-0 .home-section-content h2,
+section.home-section-0 .home-section-content h3,
+section.home-section-0 .home-section-content h4,
+section.home-section-0 .home-section-content h5,
+section.home-section-0 .home-section-content h6 {
+  color: #ffffff;
+}
+
+section.home-section-0 input,
+section.home-section-0 select,
+section.home-section-0 textarea {
+  border-color: #ffffff;
+}
+
+.onetone section.home-section-0 .magee-btn-normal.btn-line {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.onetone section.home-section-0 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-0 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-0 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(255, 255, 255, .3) !important;
+}
+
+section.home-section-0 .heading-inner {
+  border-color: #ffffff
+}
+
+section.home-section-0 .home-section-content p,
+section.home-section-0 .home-section-content h1,
+section.home-section-0 .home-section-content h2,
+section.home-section-0 .home-section-content h3,
+section.home-section-0 .home-section-content h4,
+section.home-section-0 .home-section-content h5,
+section.home-section-0 .home-section-content h6 {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #ffffff;
+}
+
+section.home-section-1 {
+  padding: 30px 0;
+  background-color: #eeeeee;
+  background-image: url();
+  background-repeat: repeat;
+  background-position: top-left;
+  background-size: ;
+  background-attachment: scroll;
+}
+
+section.home-section-1 .section-title {
+  font-family: Open Sans, sans-serif;
+  variant: 700;
+  font-size: 48px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-1 .section-subtitle {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #555555;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-1 .home-section-content,
+section.home-section-1 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: left;
+}
+
+.section_service_1 i {}
+
+section.home-section-1 .home-section-content .person-social i,
+section.home-section-1 .banner-sns li a i,
+section.home-section-1 input,
+section.home-section-1 select,
+section.home-section-1 textarea,
+section.home-section-1 .home-section-content h1,
+section.home-section-1 .home-section-content h2,
+section.home-section-1 .home-section-content h3,
+section.home-section-1 .home-section-content h4,
+section.home-section-1 .home-section-content h5,
+section.home-section-1 .home-section-content h6 {
+  color: #666666;
+}
+
+section.home-section-1 input,
+section.home-section-1 select,
+section.home-section-1 textarea {
+  border-color: #666666;
+}
+
+.onetone section.home-section-1 .magee-btn-normal.btn-line {
+  color: #666666;
+  border-color: #666666;
+}
+
+.onetone section.home-section-1 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-1 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-1 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(102, 102, 102, .3) !important;
+}
+
+section.home-section-1 .heading-inner {
+  border-color: #666666
+}
+
+section.home-section-1 .home-section-content p,
+section.home-section-1 .home-section-content h1,
+section.home-section-1 .home-section-content h2,
+section.home-section-1 .home-section-content h3,
+section.home-section-1 .home-section-content h4,
+section.home-section-1 .home-section-content h5,
+section.home-section-1 .home-section-content h6 {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #666666;
+}
+
+section.home-section-2 {
+  padding: 50px 0;
+  background-color: #ffffff;
+  background-image: url();
+  background-repeat: repeat;
+  background-position: top-left;
+  background-size: ;
+  background-attachment: scroll;
+}
+
+section.home-section-2 .section-title {
+  font-family: Open Sans, sans-serif;
+  variant: 700;
+  font-size: 48px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-2 .section-subtitle {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #555555;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-2 .home-section-content,
+section.home-section-2 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+.section_service_2 i {
+  #666666
+}
+
+section.home-section-2 .home-section-content .person-social i,
+section.home-section-2 .banner-sns li a i,
+section.home-section-2 input,
+section.home-section-2 select,
+section.home-section-2 textarea,
+section.home-section-2 .home-section-content h1,
+section.home-section-2 .home-section-content h2,
+section.home-section-2 .home-section-content h3,
+section.home-section-2 .home-section-content h4,
+section.home-section-2 .home-section-content h5,
+section.home-section-2 .home-section-content h6 {
+  color: #666666;
+}
+
+section.home-section-2 input,
+section.home-section-2 select,
+section.home-section-2 textarea {
+  border-color: #666666;
+}
+
+.onetone section.home-section-2 .magee-btn-normal.btn-line {
+  color: #666666;
+  border-color: #666666;
+}
+
+.onetone section.home-section-2 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-2 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-2 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(102, 102, 102, .3) !important;
+}
+
+section.home-section-2 .heading-inner {
+  border-color: #666666
+}
+
+section.home-section-2 .home-section-content p,
+section.home-section-2 .home-section-content h1,
+section.home-section-2 .home-section-content h2,
+section.home-section-2 .home-section-content h3,
+section.home-section-2 .home-section-content h4,
+section.home-section-2 .home-section-content h5,
+section.home-section-2 .home-section-content h6 {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #666666;
+}
+
+section.home-section-3 {
+  padding: 50px 0;
+  background-color: #eeeeee;
+  background-image: url();
+  background-repeat: repeat;
+  background-position: top-left;
+  background-size: ;
+  background-attachment: scroll;
+}
+
+section.home-section-3 .section-title {
+  font-family: Open Sans, sans-serif;
+  variant: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-3 .section-subtitle {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #555555;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-3 .home-section-content,
+section.home-section-3 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #ffffff;
+  text-transform: none;
+  text-align: center;
+}
+
+.section_service_3 i {}
+
+section.home-section-3 .home-section-content .person-social i,
+section.home-section-3 .banner-sns li a i,
+section.home-section-3 input,
+section.home-section-3 select,
+section.home-section-3 textarea,
+section.home-section-3 .home-section-content h1,
+section.home-section-3 .home-section-content h2,
+section.home-section-3 .home-section-content h3,
+section.home-section-3 .home-section-content h4,
+section.home-section-3 .home-section-content h5,
+section.home-section-3 .home-section-content h6 {
+  color: #ffffff;
+}
+
+section.home-section-3 input,
+section.home-section-3 select,
+section.home-section-3 textarea {
+  border-color: #ffffff;
+}
+
+.onetone section.home-section-3 .magee-btn-normal.btn-line {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.onetone section.home-section-3 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-3 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-3 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(255, 255, 255, .3) !important;
+}
+
+section.home-section-3 .heading-inner {
+  border-color: #666666
+}
+
+section.home-section-3 .home-section-content p,
+section.home-section-3 .home-section-content h1,
+section.home-section-3 .home-section-content h2,
+section.home-section-3 .home-section-content h3,
+section.home-section-3 .home-section-content h4,
+section.home-section-3 .home-section-content h5,
+section.home-section-3 .home-section-content h6 {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #ffffff;
+}
+
+section.home-section-4 {
+  padding: 50px 0;
+  background-color: #ffffff;
+  background-image: url();
+  background-repeat: repeat;
+  background-position: top-left;
+  background-size: ;
+  background-attachment: scroll;
+}
+
+section.home-section-4 .section-title {
+  font-family: Open Sans, sans-serif;
+  variant: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-4 .section-subtitle {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #555555;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-4 .home-section-content,
+section.home-section-4 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+.section_service_4 i {}
+
+section.home-section-4 .home-section-content .person-social i,
+section.home-section-4 .banner-sns li a i,
+section.home-section-4 input,
+section.home-section-4 select,
+section.home-section-4 textarea,
+section.home-section-4 .home-section-content h1,
+section.home-section-4 .home-section-content h2,
+section.home-section-4 .home-section-content h3,
+section.home-section-4 .home-section-content h4,
+section.home-section-4 .home-section-content h5,
+section.home-section-4 .home-section-content h6 {
+  color: #666666;
+}
+
+section.home-section-4 input,
+section.home-section-4 select,
+section.home-section-4 textarea {
+  border-color: #666666;
+}
+
+.onetone section.home-section-4 .magee-btn-normal.btn-line {
+  color: #666666;
+  border-color: #666666;
+}
+
+.onetone section.home-section-4 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-4 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-4 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(102, 102, 102, .3) !important;
+}
+
+section.home-section-4 .heading-inner {
+  border-color: #666666
+}
+
+section.home-section-4 .home-section-content p,
+section.home-section-4 .home-section-content h1,
+section.home-section-4 .home-section-content h2,
+section.home-section-4 .home-section-content h3,
+section.home-section-4 .home-section-content h4,
+section.home-section-4 .home-section-content h5,
+section.home-section-4 .home-section-content h6 {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #666666;
+}
+
+section.home-section-5 {
+  padding: 50px 0;
+  background-repeat: repeat;
+  background-position: center-center;
+  background-size: ;
+  background-attachment: fixed;
+}
+
+section.home-section-5 .section-title {
+  font-family: Open Sans, sans-serif;
+  variant: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-5 .section-subtitle {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-5 .home-section-content,
+section.home-section-5 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #555555;
+  text-transform: none;
+  text-align: left;
+}
+
+.section_service_5 i {}
+
+section.home-section-5 .home-section-content .person-social i,
+section.home-section-5 .banner-sns li a i,
+section.home-section-5 input,
+section.home-section-5 select,
+section.home-section-5 textarea,
+section.home-section-5 .home-section-content h1,
+section.home-section-5 .home-section-content h2,
+section.home-section-5 .home-section-content h3,
+section.home-section-5 .home-section-content h4,
+section.home-section-5 .home-section-content h5,
+section.home-section-5 .home-section-content h6 {
+  color: #555555;
+}
+
+section.home-section-5 input,
+section.home-section-5 select,
+section.home-section-5 textarea {
+  border-color: #555555;
+}
+
+.onetone section.home-section-5 .magee-btn-normal.btn-line {
+  color: #555555;
+  border-color: #555555;
+}
+
+.onetone section.home-section-5 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-5 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-5 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(85, 85, 85, .3) !important;
+}
+
+section.home-section-5 .heading-inner {
+  border-color: #666666
+}
+
+section.home-section-5 .home-section-content p,
+section.home-section-5 .home-section-content h1,
+section.home-section-5 .home-section-content h2,
+section.home-section-5 .home-section-content h3,
+section.home-section-5 .home-section-content h4,
+section.home-section-5 .home-section-content h5,
+section.home-section-5 .home-section-content h6 {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #555555;
+}
+
+section.home-section-6 {
+  padding: 50px 0 30px;
+  background-color: #37cadd;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-position: bottom-center;
+  background-size: ;
+  background-attachment: scroll;
+}
+
+section.home-section-6 .section-title {
+  font-family: Open Sans, sans-serif;
+  variant: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #ffffff;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-6 .section-subtitle {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #ffffff;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-6 .home-section-content,
+section.home-section-6 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #ffffff;
+  text-transform: none;
+  text-align: center;
+}
+
+.section_service_6 i {}
+
+section.home-section-6 .home-section-content .person-social i,
+section.home-section-6 .banner-sns li a i,
+section.home-section-6 input,
+section.home-section-6 select,
+section.home-section-6 textarea,
+section.home-section-6 .home-section-content h1,
+section.home-section-6 .home-section-content h2,
+section.home-section-6 .home-section-content h3,
+section.home-section-6 .home-section-content h4,
+section.home-section-6 .home-section-content h5,
+section.home-section-6 .home-section-content h6 {
+  color: #ffffff;
+}
+
+section.home-section-6 input,
+section.home-section-6 select,
+section.home-section-6 textarea {
+  border-color: #ffffff;
+}
+
+.onetone section.home-section-6 .magee-btn-normal.btn-line {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.onetone section.home-section-6 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-6 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-6 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(255, 255, 255, .3) !important;
+}
+
+section.home-section-6 .heading-inner {
+  border-color: #ffffff
+}
+
+section.home-section-6 .home-section-content p,
+section.home-section-6 .home-section-content h1,
+section.home-section-6 .home-section-content h2,
+section.home-section-6 .home-section-content h3,
+section.home-section-6 .home-section-content h4,
+section.home-section-6 .home-section-content h5,
+section.home-section-6 .home-section-content h6 {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #ffffff;
+}
+
+section.home-section-7 {
+  padding: 50px 0;
+  background-color: #ffffff;
+  background-image: url();
+  background-repeat: repeat;
+  background-position: top left;
+  background-size: ;
+  background-attachment: scroll;
+}
+
+section.home-section-7 .section-title {
+  font-family: Open Sans, sans-serif;
+  variant: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-7 .section-subtitle {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #555555;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-7 .home-section-content,
+section.home-section-7 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: left;
+}
+
+.section_service_7 i {}
+
+section.home-section-7 .home-section-content .person-social i,
+section.home-section-7 .banner-sns li a i,
+section.home-section-7 input,
+section.home-section-7 select,
+section.home-section-7 textarea,
+section.home-section-7 .home-section-content h1,
+section.home-section-7 .home-section-content h2,
+section.home-section-7 .home-section-content h3,
+section.home-section-7 .home-section-content h4,
+section.home-section-7 .home-section-content h5,
+section.home-section-7 .home-section-content h6 {
+  color: #666666;
+}
+
+section.home-section-7 input,
+section.home-section-7 select,
+section.home-section-7 textarea {
+  border-color: #666666;
+}
+
+.onetone section.home-section-7 .magee-btn-normal.btn-line {
+  color: #666666;
+  border-color: #666666;
+}
+
+.onetone section.home-section-7 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-7 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-7 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(102, 102, 102, .3) !important;
+}
+
+section.home-section-7 .heading-inner {
+  border-color: #666666
+}
+
+section.home-section-7 .home-section-content p,
+section.home-section-7 .home-section-content h1,
+section.home-section-7 .home-section-content h2,
+section.home-section-7 .home-section-content h3,
+section.home-section-7 .home-section-content h4,
+section.home-section-7 .home-section-content h5,
+section.home-section-7 .home-section-content h6 {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #666666;
+}
+
+section.home-section-8 {
+  padding: 50px 0;
+  background-repeat: repeat;
+  background-position: top-left;
+  background-size: ;
+  background-attachment: scroll;
+}
+
+section.home-section-8 .section-title {
+  font-family: Open Sans, sans-serif;
+  variant: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-8 .section-subtitle {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #555555;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-8 .home-section-content,
+section.home-section-8 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+.section_service_8 i {}
+
+section.home-section-8 .home-section-content .person-social i,
+section.home-section-8 .banner-sns li a i,
+section.home-section-8 input,
+section.home-section-8 select,
+section.home-section-8 textarea,
+section.home-section-8 .home-section-content h1,
+section.home-section-8 .home-section-content h2,
+section.home-section-8 .home-section-content h3,
+section.home-section-8 .home-section-content h4,
+section.home-section-8 .home-section-content h5,
+section.home-section-8 .home-section-content h6 {
+  color: #666666;
+}
+
+section.home-section-8 input,
+section.home-section-8 select,
+section.home-section-8 textarea {
+  border-color: #666666;
+}
+
+.onetone section.home-section-8 .magee-btn-normal.btn-line {
+  color: #666666;
+  border-color: #666666;
+}
+
+.onetone section.home-section-8 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-8 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-8 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(102, 102, 102, .3) !important;
+}
+
+section.home-section-8 .heading-inner {
+  border-color: #666666
+}
+
+section.home-section-8 .home-section-content p,
+section.home-section-8 .home-section-content h1,
+section.home-section-8 .home-section-content h2,
+section.home-section-8 .home-section-content h3,
+section.home-section-8 .home-section-content h4,
+section.home-section-8 .home-section-content h5,
+section.home-section-8 .home-section-content h6 {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #666666;
+}
+
+section.home-section-9 {
+  padding: 50px 0;
+  background-color: #ffffff;
+  background-image: url();
+  background-repeat: repeat;
+  background-position: top-left;
+  background-size: ;
+  background-attachment: scroll;
+}
+
+section.home-section-9 .section-title {
+  font-family: Open Sans, sans-serif;
+  variant: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-9 .section-subtitle {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-9 .home-section-content,
+section.home-section-9 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #ffffff;
+  text-transform: none;
+  text-align: left;
+}
+
+.section_service_9 i {}
+
+section.home-section-9 .home-section-content .person-social i,
+section.home-section-9 .banner-sns li a i,
+section.home-section-9 input,
+section.home-section-9 select,
+section.home-section-9 textarea,
+section.home-section-9 .home-section-content h1,
+section.home-section-9 .home-section-content h2,
+section.home-section-9 .home-section-content h3,
+section.home-section-9 .home-section-content h4,
+section.home-section-9 .home-section-content h5,
+section.home-section-9 .home-section-content h6 {
+  color: #ffffff;
+}
+
+section.home-section-9 input,
+section.home-section-9 select,
+section.home-section-9 textarea {
+  border-color: #ffffff;
+}
+
+.onetone section.home-section-9 .magee-btn-normal.btn-line {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.onetone section.home-section-9 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-9 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-9 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(255, 255, 255, .3) !important;
+}
+
+section.home-section-9 .heading-inner {
+  border-color: #666666
+}
+
+section.home-section-9 .home-section-content p,
+section.home-section-9 .home-section-content h1,
+section.home-section-9 .home-section-content h2,
+section.home-section-9 .home-section-content h3,
+section.home-section-9 .home-section-content h4,
+section.home-section-9 .home-section-content h5,
+section.home-section-9 .home-section-content h6 {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #ffffff;
+}
+
+section.home-section-10 {
+  padding: 50px 0;
+  background-color: #eeeeee;
+  background-image: url();
+  background-repeat: repeat;
+  background-position: top-left;
+  background-size: ;
+  background-attachment: scroll;
+}
+
+section.home-section-10 .section-title {
+  font-family: Open Sans, sans-serif;
+  variant: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-10 .section-subtitle {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-10 .home-section-content,
+section.home-section-10 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: left;
+}
+
+.section_service_10 i {}
+
+section.home-section-10 .home-section-content .person-social i,
+section.home-section-10 .banner-sns li a i,
+section.home-section-10 input,
+section.home-section-10 select,
+section.home-section-10 textarea,
+section.home-section-10 .home-section-content h1,
+section.home-section-10 .home-section-content h2,
+section.home-section-10 .home-section-content h3,
+section.home-section-10 .home-section-content h4,
+section.home-section-10 .home-section-content h5,
+section.home-section-10 .home-section-content h6 {
+  color: #666666;
+}
+
+section.home-section-10 input,
+section.home-section-10 select,
+section.home-section-10 textarea {
+  border-color: #666666;
+}
+
+.onetone section.home-section-10 .magee-btn-normal.btn-line {
+  color: #666666;
+  border-color: #666666;
+}
+
+.onetone section.home-section-10 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-10 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-10 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(102, 102, 102, .3) !important;
+}
+
+section.home-section-10 .heading-inner {
+  border-color: #666666
+}
+
+section.home-section-10 .home-section-content p,
+section.home-section-10 .home-section-content h1,
+section.home-section-10 .home-section-content h2,
+section.home-section-10 .home-section-content h3,
+section.home-section-10 .home-section-content h4,
+section.home-section-10 .home-section-content h5,
+section.home-section-10 .home-section-content h6 {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #666666;
+}
+
+section.home-section-11 {
+  padding: 50px 0;
+  background-color: #ffffff;
+  background-image: url();
+  background-repeat: repeat;
+  background-position: top-left;
+  background-size: ;
+  background-attachment: scroll;
+}
+
+section.home-section-11 .section-title {
+  font-family: Open Sans, sans-serif;
+  variant: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-11 .section-subtitle {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-11 .home-section-content,
+section.home-section-11 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: left;
+}
+
+.section_service_11 i {}
+
+section.home-section-11 .home-section-content .person-social i,
+section.home-section-11 .banner-sns li a i,
+section.home-section-11 input,
+section.home-section-11 select,
+section.home-section-11 textarea,
+section.home-section-11 .home-section-content h1,
+section.home-section-11 .home-section-content h2,
+section.home-section-11 .home-section-content h3,
+section.home-section-11 .home-section-content h4,
+section.home-section-11 .home-section-content h5,
+section.home-section-11 .home-section-content h6 {
+  color: #666666;
+}
+
+section.home-section-11 input,
+section.home-section-11 select,
+section.home-section-11 textarea {
+  border-color: #666666;
+}
+
+.onetone section.home-section-11 .magee-btn-normal.btn-line {
+  color: #666666;
+  border-color: #666666;
+}
+
+.onetone section.home-section-11 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-11 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-11 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(102, 102, 102, .3) !important;
+}
+
+section.home-section-11 .entry-meta i,
+section.home-section-11 .entry-meta a,
+section.home-section-11 img {
+  color: #666666
+}
+
+section.home-section-11 .heading-inner {
+  border-color: #666666
+}
+
+section.home-section-11 .home-section-content p {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #666666;
+}
+
+section.home-section-12 {
+  padding: 50px 0;
+  background-color: #ffffff;
+  background-image: url();
+  background-repeat: repeat;
+  background-position: top-left;
+  background-size: ;
+  background-attachment: scroll;
+}
+
+section.home-section-12 .section-title {
+  font-family: Open Sans, sans-serif;
+  variant: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-12 .section-subtitle {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-12 .home-section-content,
+section.home-section-12 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: left;
+}
+
+.section_service_12 i {}
+
+section.home-section-12 .home-section-content .person-social i,
+section.home-section-12 .banner-sns li a i,
+section.home-section-12 input,
+section.home-section-12 select,
+section.home-section-12 textarea,
+section.home-section-12 .home-section-content h1,
+section.home-section-12 .home-section-content h2,
+section.home-section-12 .home-section-content h3,
+section.home-section-12 .home-section-content h4,
+section.home-section-12 .home-section-content h5,
+section.home-section-12 .home-section-content h6 {
+  color: #666666;
+}
+
+section.home-section-12 input,
+section.home-section-12 select,
+section.home-section-12 textarea {
+  border-color: #666666;
+}
+
+.onetone section.home-section-12 .magee-btn-normal.btn-line {
+  color: #666666;
+  border-color: #666666;
+}
+
+.onetone section.home-section-12 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-12 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-12 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(102, 102, 102, .3) !important;
+}
+
+section.home-section-12 .heading-inner {
+  border-color: #666666
+}
+
+section.home-section-12 .home-section-content p,
+section.home-section-12 .home-section-content h1,
+section.home-section-12 .home-section-content h2,
+section.home-section-12 .home-section-content h3,
+section.home-section-12 .home-section-content h4,
+section.home-section-12 .home-section-content h5,
+section.home-section-12 .home-section-content h6 {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #666666;
+}
+
+section.home-section-13 {
+  padding: 50px 0;
+  background-color: #ffffff;
+  background-image: url();
+  background-repeat: repeat;
+  background-position: top-left;
+  background-size: ;
+  background-attachment: scroll;
+}
+
+section.home-section-13 .section-title {
+  font-family: Open Sans, sans-serif;
+  variant: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-13 .section-subtitle {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-13 .home-section-content,
+section.home-section-13 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: left;
+}
+
+.section_service_13 i {}
+
+section.home-section-13 .home-section-content .person-social i,
+section.home-section-13 .banner-sns li a i,
+section.home-section-13 input,
+section.home-section-13 select,
+section.home-section-13 textarea,
+section.home-section-13 .home-section-content h1,
+section.home-section-13 .home-section-content h2,
+section.home-section-13 .home-section-content h3,
+section.home-section-13 .home-section-content h4,
+section.home-section-13 .home-section-content h5,
+section.home-section-13 .home-section-content h6 {
+  color: #666666;
+}
+
+section.home-section-13 input,
+section.home-section-13 select,
+section.home-section-13 textarea {
+  border-color: #666666;
+}
+
+.onetone section.home-section-13 .magee-btn-normal.btn-line {
+  color: #666666;
+  border-color: #666666;
+}
+
+.onetone section.home-section-13 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-13 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-13 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(102, 102, 102, .3) !important;
+}
+
+section.home-section-13 .heading-inner {
+  border-color: #666666
+}
+
+section.home-section-13 .home-section-content p,
+section.home-section-13 .home-section-content h1,
+section.home-section-13 .home-section-content h2,
+section.home-section-13 .home-section-content h3,
+section.home-section-13 .home-section-content h4,
+section.home-section-13 .home-section-content h5,
+section.home-section-13 .home-section-content h6 {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #666666;
+}
+
+section.home-section-14 {
+  padding: 50px 0;
+  background-color: #ffffff;
+  background-image: url();
+  background-repeat: repeat;
+  background-position: top-left;
+  background-size: ;
+  background-attachment: scroll;
+}
+
+section.home-section-14 .section-title {
+  font-family: Open Sans, sans-serif;
+  variant: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-14 .section-subtitle {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: center;
+}
+
+section.home-section-14 .home-section-content,
+section.home-section-14 p {
+  font-family: Open Sans, sans-serif;
+  variant: normal;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0;
+  subsets: latin-ext;
+  color: #666666;
+  text-transform: none;
+  text-align: left;
+}
+
+.section_service_14 i {}
+
+section.home-section-14 .home-section-content .person-social i,
+section.home-section-14 .banner-sns li a i,
+section.home-section-14 input,
+section.home-section-14 select,
+section.home-section-14 textarea,
+section.home-section-14 .home-section-content h1,
+section.home-section-14 .home-section-content h2,
+section.home-section-14 .home-section-content h3,
+section.home-section-14 .home-section-content h4,
+section.home-section-14 .home-section-content h5,
+section.home-section-14 .home-section-content h6 {
+  color: #666666;
+}
+
+section.home-section-14 input,
+section.home-section-14 select,
+section.home-section-14 textarea {
+  border-color: #666666;
+}
+
+.onetone section.home-section-14 .magee-btn-normal.btn-line {
+  color: #666666;
+  border-color: #666666;
+}
+
+.onetone section.home-section-14 .magee-btn-normal.btn-line:hover,
+.onetone section.home-section-14 .magee-btn-normal.btn-line:active,
+.onetone section.home-section-14 .magee-btn-normal.btn-line:focus {
+  background-color: rgba(102, 102, 102, .3) !important;
+}
+
+section.home-section-14 .heading-inner {
+  border-color: #666666
+}
+
+section.home-section-14 .home-section-content p,
+section.home-section-14 .home-section-content h1,
+section.home-section-14 .home-section-content h2,
+section.home-section-14 .home-section-content h3,
+section.home-section-14 .home-section-content h4,
+section.home-section-14 .home-section-content h5,
+section.home-section-14 .home-section-content h6 {
+  font-family: Open Sans, sans-serif;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #666666;
+}
+
+body {
+  margin: 0px;
+}
+
+.text-primary {
+  color: #37cadd;
+}
+
+.text-muted {
+  color: #777;
+}
+
+.text-light {
+  color: #fff;
+}
+
+a {
+  color: #37cadd;
+}
+
+a:active,
+a:hover,
+.onetone a:active,
+.onetone a:hover {
+  color: #37cadd;
+}
+
+h1 strong,
+h2 strong,
+h3 strong,
+h4 strong,
+h5 strong,
+h6 strong {
+  color: #37cadd;
+}
+
+mark,
+ins {
+  background: #37cadd;
+}
+
+::selection {
+  background: #37cadd;
+}
+
+::-moz-selection {
+  background: #37cadd;
+}
+
+.site-nav>ul>li.current>a {
+  color: #37cadd;
+}
+
+@media screen and (min-width: 920px) {
+  .site-nav>ul>li:hover>a {
+    color: #37cadd;
+  }
+
+  .overlay .main-header .site-nav>ul>li:hover>a {
+    border-color: #fff;
+  }
+
+  .side-header .site-nav>ul>li:hover>a {
+    border-right-color: #37cadd;
+  }
+
+  .side-header-right .site-nav>ul>li:hover>a {
+    border-left-color: #37cadd;
+  }
+}
+
+.blog-list-wrap .entry-header:after {
+  background-color: #37cadd;
+}
+
+.entry-meta a:hover,
+.entry-footer a:hover {
+  color: #37cadd;
+}
+
+.entry-footer li a:hover {
+  border-color: #37cadd;
+}
+
+.post-attributes h3:after {
+  background-color: #37cadd;
+}
+
+.post-pagination li a:hover {
+  border-color: #37cadd;
+  color: #37cadd;
+}
+
+.form-control:focus,
+select:focus,
+input:focus,
+textarea:focus,
+input[type=\"text\"]:focus,
+input[type=\"password\"]:focus,
+input[type=\"subject\"]:focus input[type=\"datetime\"]:focus,
+input[type=\"datetime-local\"]:focus,
+input[type=\"date\"]:focus,
+input[type=\"month\"]:focus,
+input[type=\"time\"]:focus,
+input[type=\"week\"]:focus,
+input[type=\"number\"]:focus,
+input[type=\"email\"]:focus,
+input[type=\"url\"]:focus,
+input[type=\"search\"]:focus,
+input[type=\"tel\"]:focus,
+input[type=\"color\"]:focus,
+.uneditable-input:focus {
+  border-color: inherit;
+}
+
+a .entry-title:hover {
+  color: #37cadd;
+}
+
+.widget-title:after {
+  background-color: #37cadd;
+}
+
+.widget_nav_menu li.current-menu-item a {
+  border-right-color: #37cadd;
+}
+
+.breadcrumb-nav a:hover {
+  color: #37cadd;
+}
+
+.entry-meta a:hover {
+  color: #37cadd;
+}
+
+.widget-box a:hover {
+  color: #37cadd;
+}
+
+.post-attributes a:hover {
+  color: #37cadd;
+}
+
+.post-pagination a:hover,
+.post-list-pagination a:hover {
+  color: #37cadd;
+}
+
+/*Onetone Shortcode*/
+.portfolio-box:hover .portfolio-box-title {
+  background-color: #37cadd;
+}
+
+/*Shortcode*/
+
+.onetone .text-primary {
+  color: #37cadd;
+}
+
+.onetone .magee-dropcap {
+  color: #37cadd;
+}
+
+.onetone .dropcap-boxed {
+  background-color: #37cadd;
+  color: #fff;
+}
+
+.onetone .magee-highlight {
+  background-color: #37cadd;
+}
+
+.onetone .comment-reply-link {
+  color: #37cadd;
+}
+
+.onetone .btn-normal,
+.onetone a.btn-normal,
+.onetone .magee-btn-normal,
+.onetone a.magee-btn-normal,
+.onetone .mpl-btn-normal {
+  background-color: #37cadd;
+  color: #fff;
+}
+
+.onetone .btn-normal:hover,
+.onetone .magee-btn-normal:hover,
+.onetone .btn-normal:active,
+.onetone .magee-btn-normal:active,
+.onetone .comment-reply-link:active,
+.onetone .btn-normal:focus,
+.onetone .magee-btn-normal:focus,
+.onetone .comment-reply-link:focus,
+.onetone .onetone .mpl-btn-normal:focus,
+.onetone .onetone .mpl-btn-normal:hover,
+.onetone .mpl-btn-normal:active {
+  background-color: rgba(55, 202, 221, .6) !important;
+  color: #fff !important;
+}
+
+.onetone .magee-btn-normal.btn-line {
+  background-color: transparent;
+  color: #37cadd;
+  border-color: #37cadd;
+}
+
+.onetone .magee-btn-normal.btn-line:hover,
+.onetone .magee-btn-normal.btn-line:active,
+.onetone .magee-btn-normal.btn-line:focus {
+  background-color: rgba(255, 255, 255, .1);
+}
+
+.onetone .magee-btn-normal.btn-3d {
+  box-shadow: 0 3px 0 0 rgba(55, 202, 221, .8);
+}
+
+.onetone .icon-box.primary {
+  color: #37cadd;
+}
+
+.onetone .portfolio-list-filter li a:hover,
+.onetone .portfolio-list-filter li.active a,
+.onetone .portfolio-list-filter li span.active a {
+  background-color: #37cadd;
+  color: #fff;
+}
+
+.onetone .magee-tab-box.tab-line ul>li.active>a {
+  border-bottom-color: #37cadd;
+}
+
+.onetone .panel-primary {
+  border-color: #37cadd;
+}
+
+.onetone .panel-primary .panel-heading {
+  background-color: #37cadd;
+  border-color: #37cadd;
+}
+
+.onetone .mpl-pricing-table.style1 .mpl-pricing-box.mpl-featured .mpl-pricing-title,
+.onetone .mpl-pricing-table.style1 .mpl-pricing-box.mpl-featured .mpl-pricing-box.mpl-featured .mpl-pricing-tag {
+  color: #37cadd;
+}
+
+.onetone .pricing-top-icon,
+.onetone .mpl-pricing-table.style2 .mpl-pricing-top-icon {
+  color: #37cadd;
+}
+
+.onetone .magee-pricing-box.featured .panel-heading,
+.onetone .mpl-pricing-table.style2 .mpl-pricing-box.mpl-featured .mpl-pricing-title {
+  background-color: #37cadd;
+}
+
+.onetone .pricing-tag .currency,
+.onetone .mpl-pricing-table.style2 .mpl-pricing-tag .currency {
+  color: #37cadd;
+}
+
+.onetone .pricing-tag .price,
+.onetone .mpl-pricing-table.style2 .mpl-pricing-tag .price {
+  color: #37cadd;
+}
+
+.onetone .pricing-box-flat.featured {
+  background-color: #37cadd;
+  color: #fff;
+}
+
+.onetone .person-vcard .person-title:after {
+  background-color: #37cadd;
+}
+
+.onetone .person-social li a:hover {
+  color: #37cadd;
+}
+
+.onetone .person-social.boxed li a:hover {
+  color: #fff;
+  background-color: #37cadd;
+}
+
+.onetone .magee-progress-box .progress-bar {
+  background-color: #37cadd;
+}
+
+.onetone .counter-top-icon {
+  color: #37cadd;
+}
+
+.onetone .counter:after {
+  background-color: #37cadd;
+}
+
+.onetone .timeline-year {
+  background-color: #37cadd;
+}
+
+.onetone .timeline-year:after {
+  border-top-color: #37cadd;
+}
+
+@media (min-width: 992px) {
+  .onetone .magee-timeline:before {
+    background-color: #37cadd;
+  }
+
+  .onetone .magee-timeline>ul>li:before {
+    background-color: #37cadd;
+  }
+
+  .onetone .magee-timeline>ul>li:last-child:before {
+    background-image: -moz-linear-gradient(left, #37cadd 0%, #37cadd 70%, #fff 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#37cadd), color-stop(0.7, #37cadd), to(#fff));
+    background-image: -webkit-linear-gradient(left, #37cadd 0%, #37cadd 70%, #fff 100%);
+    background-image: -o-linear-gradient(left, #37cadd 0%, #37cadd 70%, #fff 100%);
+  }
+}
+
+.onetone .icon-list-primary li i {
+  color: #37cadd;
+}
+
+.onetone .icon-list-primary.icon-list-circle li i {
+  background-color: #37cadd;
+  color: #fff;
+}
+
+.onetone .divider-border .divider-inner.primary {
+  border-color: #37cadd;
+}
+
+.onetone .img-box .img-overlay.primary {
+  background-color: rgba(55, 202, 221, .7);
+}
+
+.img-box .img-overlay-icons i,
+.onetone .img-box .img-overlay-icons i {
+  background-color: #37cadd;
+}
+
+.onetone .portfolio-img-box {
+  background-color: #37cadd;
+}
+
+.onetone .tooltip-text {
+  color: #37cadd;
+}
+
+.onetone .star-rating span:before {
+  color: #37cadd;
+}
+
+.onetone .woocommerce p.stars a:before {
+  color: #37cadd;
+}
+
+@media screen and (min-width: 920px) {
+
+  .site-nav.style1>ul>li.current>a>span,
+  .site-nav.style1>ul>li>a:hover>span {
+    background-color: #37cadd;
+  }
+
+  .site-nav.style2>ul>li.current>a>span,
+  .site-nav.style2>ul>li>a:hover>span {
+    border-color: #37cadd;
+  }
+
+  .site-nav.style3>ul>li.current>a>span,
+  .site-nav.style3>ul>li>a:hover>span {
+    border-bottom-color: #37cadd;
+  }
+}
+
+/*Woocommerce*/
+
+.star-rating span:before {
+  color: #37cadd;
+}
+
+.woocommerce p.stars a:before {
+  color: #37cadd;
+}
+
+.woocommerce span.onsale {
+  background-color: #37cadd;
+}
+
+.woocommerce span.onsale:before {
+  border-top-color: #37cadd;
+  border-bottom-color: #37cadd;
+}
+
+.woocommerce div.product p.price,
+.woocommerce div.product span.price,
+.woocommerce ul.products li.product .price {
+  color: #37cadd;
+}
+
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt {
+  background-color: #37cadd;
+}
+
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover {
+  background-color: rgba(55, 202, 221, .7);
+}
+
+p.woocommerce.product ins,
+.woocommerce p.product ins,
+p.woocommerce.product .amount,
+.woocommerce p.product .amount,
+.woocommerce .product_list_widget ins,
+.woocommerce .product_list_widget .amount,
+.woocommerce .product-price ins,
+.woocommerce .product-price .amount,
+.product-price .amount,
+.product-price ins {
+  color: #37cadd;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range {
+  background-color: #37cadd;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+  background-color: #37cadd;
+}
+
+.woocommerce.style2 .widget_price_filter .ui-slider .ui-slider-range {
+  background-color: #222;
+}
+
+.woocommerce.style2 .widget_price_filter .ui-slider .ui-slider-handle {
+  background-color: #222;
+}
+
+.woocommerce p.stars a:before {
+  color: #37cadd;
+}
+
+.onetone .mpl-portfolio-list-filter li.active a,
+.onetone .mpl-portfolio-list-filter li a:hover {
+  color: #37cadd;
+  }

@@ -1,24 +1,3 @@
-/*
-Theme Name: OneTone
-Theme URI: https://www.mageewp.com/onetone-theme.html
-Description: Onetone is a one-page business theme based on Bootstrap framework and coded with HTML5/CSS3. All required information are displayed on a single page with clear order according to users' preferences. The basic sections designed for business purpose have already been built for you, such as services, about, gallery, clients, etc. There's also an extensive admin panel where unlimited sections can be easily added. Multiple options are available if you prefer to do some adjustments, such as changing background, parallax scrolling background, video background, Font Awesome Icons, uploading logo and  favicon,adding custom CSS and so on. The theme is also responsive, clean, and SEO optimized. Please note that with our updation, interface of your blog can grow up with futher more diversities.
-Version: 2.4.2
-Author: MageeWP
-Author URI: https://www.mageewp.com
-License: GNU General Public License
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Tags: one-column, two-columns, custom-background, custom-header, custom-menu, theme-options, left-sidebar, translation-ready, editor-style, featured-images, full-width-template, rtl-language-support, custom-colors, threaded-comments, buddypress, post-formats
-Text Domain: onetone
-
-OneTone Wordpress Theme has been created by Mageewp.com, Copyright 2017 Mageewp.com.
-OneTone Wordpress theme is released under the terms of GNU GPL.
-*/
-
-/*
- * 0.0 Reset
- * Reset CSS by Eric Meyer http://meyerweb.com/eric/tools/css/reset/index.html
- */
-
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
 	border: 0;
 	font-family: inherit;
@@ -729,7 +708,7 @@ img.site-logo {
 
 .site-name {
 	margin: 0 0 2px 0;
-	color: #595959;
+	color: #ffffff;
 	font-size: 24px;
 	font-weight: normal;
 	line-height: 1;
@@ -741,7 +720,7 @@ img.site-logo {
 }
 
 .site-tagline {
-	color: #595959;
+	color: #ffffff;
 }
 .retina_logo{
 	display:none;
